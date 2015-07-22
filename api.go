@@ -26,7 +26,7 @@ const (
 	putPath      = "/GraphDriver.Put"
 	existsPath   = "/GraphDriver.Exists"
 	statusPath   = "/GraphDriver.Status"
-	cleanupPath  = "/VolumeDriver.Cleanup"
+	cleanupPath  = "/GraphDriver.Cleanup"
 )
 
 // Request is the structure that docker's requests are deserialized to.

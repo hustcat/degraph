@@ -28,7 +28,7 @@ This library is designed to be integrated in your program.
 
 ## Full example plugins
 
-- https://github.com/hustcat/rbd-driver
+- https://github.com/hustcat/docker-rbd-driver
 
 ## License
 
